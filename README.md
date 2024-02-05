@@ -1,4 +1,4 @@
-# BankCustomerChurnPrediction
+# Bank Customer Churn Prediction
 Project ini merupakan final project dari Boothcamp Data Science Batch 37 Rakamin Academy dengan sumber dataset berasal dari kaggle dengan link berikut:
 https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
 
