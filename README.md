@@ -1,4 +1,6 @@
 # BankCustomerChurnPrediction
+Project ini merupakan final project dari Boothcamp Data Science Batch 37 Rakamin Academy dengan sumber dataset berasal dari kaggle dengan link berikut:
+https://www.kaggle.com/datasets/adammaus/predicting-churn-for-bank-customers
 
 ## Background
 Masalah churn pada nasabah bank merupakan isu yang sangat umum untuk dihadapi oleh bunk. Churn terjadi ketika nasabah memutuskan untuk berhenti menggunakan produk dan layanan dari bank. Hal ini berdampak negatif terhadap finansial bank karena dapat menyebabkan penurunan pendapatan hingga kerugian kerugian. Selain itu, biaya untuk mendapatkan nasabah baru cenderung lebih tinggi dibandingkan mempertahankan nasabah lama.
